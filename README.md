@@ -1,7 +1,7 @@
 # campus-services
 
 ## 介绍
-阿里练习生第二届，“专业写bug队”的项目：校园服务
+第二届阿里训练营 “专业写bug队”项目 —— Pocket Campus 口袋校园
 
 ## 软件架构
 
