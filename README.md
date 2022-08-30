@@ -10,10 +10,6 @@
 - /frontend 前端目录
 - /backend 后端目录
 
-#### 线上项目地址:
-
-- http://42.193.247.131:3000/
-
 #### 架构说明:
 
 - 前端架构说明：<https://qvwk9bpy1e.feishu.cn/docs/doccnYscw1Wkkztx2GDmFqDiMje>
